@@ -173,7 +173,7 @@ body {
   left: 0%;
 }
 
-/* Open and close card content*/
+
 .card--open .card__header {
   bottom: 25%;
   left: 25px;
